@@ -26,9 +26,8 @@ RENAME: This is used to rename an object existing in the database.
 
 
 ### OUTPUT:
-![image](https://github.com/Vijisdurai/G2_DBMS/assets/118343184/ea814585-0563-4de9-b673-eb042e6626d8)
 
-![image](https://github.com/Vijisdurai/G2_DBMS/assets/118343184/b8c005b7-3c04-4a5e-9b34-af8dfd72279c)
+
 
 ### 2) Change the above student table by adding another attribute department
 
@@ -36,13 +35,13 @@ RENAME: This is used to rename an object existing in the database.
 ``alter table student add department varchar(10);``
 
 ### OUTPUT:
-![image](https://github.com/Vijisdurai/G2_DBMS/assets/118343184/c4d910c5-19f3-4108-9f06-23accd1dc006)
+!
 
 ## PREVIOUS TABLE:
-![image](https://github.com/Vijisdurai/G2_DBMS/assets/118343184/b8c005b7-3c04-4a5e-9b34-af8dfd72279c)
+
 
 ## ALTERED TABLE:
-![image](https://github.com/Vijisdurai/G2_DBMS/assets/118343184/366de4e4-119e-4f5f-a0ad-28ca3c7ccbd7)
+
 
 
 ### 3) Drop the student table
@@ -51,7 +50,6 @@ RENAME: This is used to rename an object existing in the database.
 `` drop table student;``
 
 ### OUTPUT:
-![image](https://github.com/Vijisdurai/G2_DBMS/assets/118343184/78efa1b2-e539-4fb7-bd7f-ee14f54f7808)
 
 ### 4) Delete the student table using truncate keyword
 
@@ -59,7 +57,7 @@ RENAME: This is used to rename an object existing in the database.
 ``TRUNCATE TABLE student;``
 
 ### OUTPUT:
-![image](https://github.com/Vijisdurai/G2_DBMS/assets/118343184/5d44392b-8e64-4110-89e8-deef85651523)
+
 
 ### 5) Rename the student table to mystudent
 
@@ -67,4 +65,3 @@ RENAME: This is used to rename an object existing in the database.
 ``alter table student_details rename to mystudent;``
 
 ### OUTPUT:
-![image](https://github.com/Vijisdurai/G2_DBMS/assets/118343184/13071f0e-7a0a-4bc4-b2f1-72764f221184)
