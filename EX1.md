@@ -62,3 +62,6 @@ RENAME: This is used to rename an object existing in the database.
 ### OUTPUT:
 
 ![image](https://github.com/vidhyasrikachapalayam/F2_DBMS/assets/119477552/40122519-3b7c-4ad8-b450-8f7d9d181d1c)
+
+### RESULT:
+Thus the ddl command executed successfully.
